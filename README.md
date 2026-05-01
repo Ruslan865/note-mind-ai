@@ -1,2 +1,1 @@
-
-NoteMind AI Project
+NoteMind AI - Speech to Text + AI Summary Project
